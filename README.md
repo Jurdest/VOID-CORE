@@ -3,7 +3,7 @@
 ### Official Windows Maintenance, Diagnostics & System Health Platform
 
 Developed by **Jurdest (Void Lord)**
-
+![Dashboard](Screenshots/1.%20Dashboard.png)
 ---
 
 ## What is VOID CORE?
