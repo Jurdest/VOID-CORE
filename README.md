@@ -1,6 +1,6 @@
 # VOID CORE GUI V3.0
 
-### Official Windows Maintenance, Diagnostics & System Health Platform
+### Advanced Windows Maintenance, Diagnostics and System Health Platform.
 
 Developed by **Jurdest (Void Lord)**
 
