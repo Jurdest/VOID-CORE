@@ -4,18 +4,18 @@
 
 Developed by **Jurdest (Void Lord)**
 
-![Dashboard](Screenshots/1.%20Dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ## Interface Preview
 
 ### Maintenance
-![Dashboard](Screenshots/1.%20Maintenance.png)
+![Maintenance](Screenshots/maintenance.png)
 
-### Maintenance
-![Maintenance](Screenshots/2.%20Repair.png)
+### Repair
+![Repair](Screenshots/repair.png)
 
 ### Extras
-![Repair](Screenshots/3.%20Extras.png)
+![Extras](Screenshots/extras.png)
 
 ---
 
