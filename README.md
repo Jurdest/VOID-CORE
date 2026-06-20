@@ -6,17 +6,6 @@ Developed by **Jurdest (Void Lord)**
 
 ![Dashboard](Screenshots/dashboard.png)
 
-## Interface Preview
-
-### Maintenance
-![Maintenance](Screenshots/maintenance.png)
-
-### Repair
-![Repair](Screenshots/repair.png)
-
-### Extras
-![Extras](Screenshots/extras.png)
-
 ---
 
 ## What is VOID CORE?
